@@ -3,6 +3,6 @@
     {"nombre": "Mi villano Favorito 2", "id": 2013, "desc":"Gru se perfila como hombre de familia, la Liga Anti-Villanos lo envía tras el autor de un robo espectacular.","img": "./img/2.jpg"},
     {"nombre": "Los Minions", "id": 2015, "desc":"Kevin, Stuart y Bob, ingenuos y torpes, buscan un verdadero villano al que servir.","img": "./img/3.jpg"},
     {"nombre": "Mi villano Favorito 3", "id": 2017, "desc":"Gru trabaja capturando villanos pero es despedido. Pero descubre que tiene un hermano, Dru","img": "./img/4.jpg"},
-    {"nombre": "Yellow Is the New Black", "id": 2018, "desc":"Dos minions intentan escapar de prisión. Cortometraje que acompaña el estreno 'El Grinch'","img": "./img/5.jpg"},
-    {"nombre": "Minions: Nace un villano", "id": 2022, "desc":"Gru es un gran admirador de Los Super Villanos Los salvajes seis y quiere formar parte","img": "./img/6.jpg"}
+    {"nombre": "Yellow Is the New Black", "id": 2018, "desc":"Dos minions intentan escapar de prisión. Cortometraje que acompaña el estreno 'El Grinch'","img": "./img/5.JPG"},
+    {"nombre": "Minions: Nace un villano", "id": 2022, "desc":"Gru es un gran admirador de Los Super Villanos Los salvajes seis y quiere formar parte","img": "./img/6.JPG"}
    ]
