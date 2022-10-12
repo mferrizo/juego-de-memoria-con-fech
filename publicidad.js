@@ -21,7 +21,7 @@ const pedirPosts = async () => {
     <p>Año de Lanzamiento: ${pelicula.id}</p>
     </div>
   </div>
-    `
+  `
     publicidadGral.append(publicidad)
     })
    }
